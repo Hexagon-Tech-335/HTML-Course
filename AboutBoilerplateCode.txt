@@ -1,0 +1,10 @@
+<!DOCTYPE html> - Defines the document type as HTML.
+<html lang="en"> - The starting tag of HTML.
+<head> - The head contains information like meta data, title tag, etc.
+    <meta charset="UTF-8"> - This meta tag is just defining the character set as UTF- 8.
+    <title></title> - This is the title of the website (This is shown at the top in a web browser)
+</head> - The end of the head tag.
+<body> - The body tag contains things like text, images and other content in the website.
+   
+</body> - The end of the body tag.
+</html> - The end of the html tag.
